@@ -1,0 +1,7 @@
+{
+	"ConfigInfo":[
+		{"Key":"StartMenuPanel","Value":"UIPrefabs/StartMenuPanel"},
+		{"Key":"MainPanel","Value":"UIPrefabs/MainPanel"},
+		{"Key":"BossMainPanel","Value":"UIPrefabs/BossMainPanel"}
+	]
+}
